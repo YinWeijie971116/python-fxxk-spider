@@ -141,14 +141,4 @@
 
 * [中国大陆爬虫使用者涉诉与违规相关的新闻资料与法律法规](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China)
 
-## 更新记录
 
-* 2021-10-24 创建
-
-本内容持续更新，欢迎您 [star 本项目](https://github.com/ityard/python-fxxk-spider)
-
-## 联系我
-
-个人微信公众号：Python小二，右侧菜单栏有我个人微信。
-
-![](https://github.com/ityard/python-fxxk-spider/blob/main/qrcode.jpg)
